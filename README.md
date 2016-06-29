@@ -1,2 +1,3 @@
 # hello-world
-# to znaczy witam
+# 1sza zmiana: to znaczy witam
+# 2ga zmiana
